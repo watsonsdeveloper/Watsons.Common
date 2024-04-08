@@ -6,6 +6,7 @@ C:\Projects\Watsons.Common\Watsons.Common\obj\Release\net8.0\Watsons.Common.Gene
 C:\Projects\Watsons.Common\Watsons.Common\obj\Release\net8.0\Watsons.Common.AssemblyInfoInputs.cache
 C:\Projects\Watsons.Common\Watsons.Common\obj\Release\net8.0\Watsons.Common.AssemblyInfo.cs
 C:\Projects\Watsons.Common\Watsons.Common\obj\Release\net8.0\Watsons.Common.csproj.CoreCompileInputs.cache
+C:\Projects\Watsons.Common\Watsons.Common\obj\Release\net8.0\Watsons.Common.sourcelink.json
 C:\Projects\Watsons.Common\Watsons.Common\obj\Release\net8.0\Watsons.Common.dll
 C:\Projects\Watsons.Common\Watsons.Common\obj\Release\net8.0\refint\Watsons.Common.dll
 C:\Projects\Watsons.Common\Watsons.Common\obj\Release\net8.0\Watsons.Common.pdb

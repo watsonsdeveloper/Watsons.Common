@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Options;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using System;
 using System.Collections.Generic;
@@ -7,16 +8,29 @@ using System.Linq;
 using System.Security.Claims;
 using System.Security.Cryptography;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
 
 namespace Watsons.Common.JwtHelpers
 {
     public class JwtHelper
     {
+        private readonly JwtSecurityToken _jwtSecurityToken;
         private readonly JwtSettings _jwtSettings;
-        public JwtHelper(IOptions<JwtSettings> jwtSettings)
+        private readonly IHttpContextAccessor _httpContextAccessor;
+
+        public JwtHelper(IOptions<JwtSettings> jwtSettings, IHttpContextAccessor httpContextAccessor)
         {
             _jwtSettings = jwtSettings.Value;
+            _httpContextAccessor = httpContextAccessor;
+
+            // initialized
+            var token = _httpContextAccessor.HttpContext.Request.Cookies[_jwtSettings.CookieName];
+            var handler = new JwtSecurityTokenHandler();
+            if (!string.IsNullOrEmpty(token) && handler.CanReadToken(token))
+            {
+                _jwtSecurityToken = handler.ReadJwtToken(token);
+            }
         }
         public string GenerateJwtToken(List<Claim>? claims = null)
         {
@@ -34,18 +48,38 @@ namespace Watsons.Common.JwtHelpers
             return new JwtSecurityTokenHandler().WriteToken(token);
         }
 
-        public void DecodeJwtToken(string token)
+        public string? DecodeJwtToken(string token)
         {
             var handler = new JwtSecurityTokenHandler();
-            var jwtToken = handler.ReadJwtToken(token);
+            var jwtToken = handler.ReadJwtToken(token.Replace("Bearer ", ""));
+            var payload = jwtToken.Payload;
 
             Console.WriteLine("JWT Header:");
             Console.WriteLine(jwtToken.Header);
             Console.WriteLine("\nJWT Payload:");
-            foreach (var claim in jwtToken.Claims)
-            {
-                Console.WriteLine($"{claim.Type}: {claim.Value}");
-            }
+
+            //foreach (var claim in jwtToken.Claims)
+            //{
+            //    $"{claim.Type}: {claim.Value}");
+            //}
+
+            return JsonSerializer.Serialize(payload);
+        }
+
+        public JwtPayload Payload()
+        {
+            var payload = _jwtSecurityToken.Payload;
+            return payload;
+        }
+        public string? GetRole()
+        {
+            var role = _jwtSecurityToken.Claims.FirstOrDefault(claim => claim.Type == ClaimTypes.Role);
+            return role?.Value;
+        }
+        public string? GetEmail()
+        {
+            var email = _jwtSecurityToken.Claims.FirstOrDefault(claim => claim.Type == ClaimTypes.Email);
+            return email?.Value;
         }
 
         public static byte[] GenerateSecretKey()

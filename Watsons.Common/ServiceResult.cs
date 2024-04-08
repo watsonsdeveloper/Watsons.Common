@@ -19,7 +19,7 @@ namespace Watsons.Common
 
         // Factory methods for success/failure
         public static ServiceResult<T> Success(T data) => new ServiceResult<T> { Data = data, IsSuccess = true };
-        public static ServiceResult<T> Failure(string message) => new ServiceResult<T> { IsSuccess = false, ErrorMessage = message };
+        public static ServiceResult<T> Fail(string message) => new ServiceResult<T> { IsSuccess = false, ErrorMessage = message };
         public static ServiceResult<T> FailureData(T data, string message) => new ServiceResult<T> { Data = data, IsSuccess = false, ErrorMessage = message,  };
     }
 

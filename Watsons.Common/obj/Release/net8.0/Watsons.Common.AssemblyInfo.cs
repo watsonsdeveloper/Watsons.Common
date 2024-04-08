@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Watsons.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a27c4691deb98578a96b6290fc3f14ab1c0cf02")]
 [assembly: System.Reflection.AssemblyProductAttribute("Watsons.Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Watsons.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

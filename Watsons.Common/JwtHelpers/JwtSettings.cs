@@ -8,6 +8,7 @@ namespace Watsons.Common.JwtHelpers
 {
     public class JwtSettings
     {
+        public string CookieName { get; set; } = null!;
         public string MfaApplicationId { get; set; } = null!;
         public string SecretKey { get; set; } = null!;
         public string Issuer { get; set; } = null!;

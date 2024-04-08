@@ -10,3 +10,4 @@ C:\Projects\Watsons.Common\Watsons.Common\obj\Debug\net8.0\Watsons.Common.dll
 C:\Projects\Watsons.Common\Watsons.Common\obj\Debug\net8.0\refint\Watsons.Common.dll
 C:\Projects\Watsons.Common\Watsons.Common\obj\Debug\net8.0\Watsons.Common.pdb
 C:\Projects\Watsons.Common\Watsons.Common\obj\Debug\net8.0\ref\Watsons.Common.dll
+C:\Projects\Watsons.Common\Watsons.Common\obj\Debug\net8.0\Watsons.Common.sourcelink.json
