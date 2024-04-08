@@ -3,10 +3,11 @@ Watsons.Common/bin/
 Watsons.Common/obj/
 
 # Ignore all obj directories
-obj/
-bin/
+Watsons.Common/obj
+Watsons.Common/bin
 
 wwwroot/
+bin/
 
 # Ignore specific files
 myconfig.json
