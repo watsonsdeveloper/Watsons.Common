@@ -1,16 +1,7 @@
-# Ignore all bin directories
-Watsons.Common/bin/
-Watsons.Common/obj/
 
-# Ignore all obj directories
-Watsons.Common/obj
-Watsons.Common/bin
-
-wwwroot/
 bin/
+obj/
 
-# Ignore specific files
-myconfig.json
 # Ignore files with specific extensions
 *.log
 *.tmp
