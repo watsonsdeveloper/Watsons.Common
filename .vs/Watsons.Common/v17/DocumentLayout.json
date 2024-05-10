@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Watsons.Common\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|c:\\projects\\watsons.common\\watsons.common\\emailhelpers\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|solutionrelative:watsons.common\\emailhelpers\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|c:\\projects\\watsons.common\\watsons.common\\emailhelpers\\entities\\emailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|solutionrelative:watsons.common\\emailhelpers\\entities\\emailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|c:\\projects\\watsons.common\\watsons.common\\syscredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|solutionrelative:watsons.common\\syscredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|c:\\projects\\watsons.common\\watsons.common\\emailhelpers\\dto\\sendemailbyspdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|solutionrelative:watsons.common\\emailhelpers\\dto\\sendemailbyspdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|c:\\projects\\watsons.common\\watsons.common\\trafficloghelpers\\trafficcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|solutionrelative:watsons.common\\trafficloghelpers\\trafficcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|c:\\projects\\watsons.common\\watsons.common\\emailhelpers\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|solutionrelative:watsons.common\\emailhelpers\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|c:\\projects\\watsons.common\\watsons.common\\watsons.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|solutionrelative:watsons.common\\watsons.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|c:\\projects\\watsons.common\\watsons.common\\watsons.common.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|solutionrelative:watsons.common\\watsons.common.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|c:\\projects\\watsons.common\\watsons.common\\trafficloghelpers\\trafficlogmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|solutionrelative:watsons.common\\trafficloghelpers\\trafficlogmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|c:\\projects\\watsons.common\\watsons.common\\trafficloghelpers\\trafficlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|solutionrelative:watsons.common\\trafficloghelpers\\trafficlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|c:\\projects\\watsons.common\\watsons.common\\httpservices\\httpserviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|solutionrelative:watsons.common\\httpservices\\httpserviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|c:\\projects\\watsons.common\\watsons.common\\encryptionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|solutionrelative:watsons.common\\encryptionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|c:\\projects\\watsons.common\\watsons.common\\encryptionenginecore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|solutionrelative:watsons.common\\encryptionenginecore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|c:\\projects\\watsons.common\\watsons.common\\imagehelpers\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|solutionrelative:watsons.common\\imagehelpers\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|c:\\projects\\watsons.common\\watsons.common\\imagehelpers\\iimagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|solutionrelative:watsons.common\\imagehelpers\\iimagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|c:\\projects\\watsons.common\\watsons.common\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|solutionrelative:watsons.common\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|c:\\projects\\watsons.common\\watsons.common\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F3D18-556E-45EA-89BB-044893083B74}|Watsons.Common\\Watsons.Common.csproj|solutionrelative:watsons.common\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 157,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailContext.cs",
+              "DocumentMoniker": "C:\\Projects\\Watsons.Common\\Watsons.Common\\EmailHelpers\\Entities\\EmailContext.cs",
+              "RelativeDocumentMoniker": "Watsons.Common\\EmailHelpers\\Entities\\EmailContext.cs",
+              "ToolTip": "C:\\Projects\\Watsons.Common\\Watsons.Common\\EmailHelpers\\Entities\\EmailContext.cs",
+              "RelativeToolTip": "Watsons.Common\\EmailHelpers\\Entities\\EmailContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:54:04.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SendEmailBySpDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Watsons.Common\\Watsons.Common\\EmailHelpers\\DTO\\SendEmailBySpDto.cs",
+              "RelativeDocumentMoniker": "Watsons.Common\\EmailHelpers\\DTO\\SendEmailBySpDto.cs",
+              "ToolTip": "C:\\Projects\\Watsons.Common\\Watsons.Common\\EmailHelpers\\DTO\\SendEmailBySpDto.cs",
+              "RelativeToolTip": "Watsons.Common\\EmailHelpers\\DTO\\SendEmailBySpDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:25:56.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Projects\\Watsons.Common\\Watsons.Common\\EmailHelpers\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "Watsons.Common\\EmailHelpers\\EmailSettings.cs",
+              "ToolTip": "C:\\Projects\\Watsons.Common\\Watsons.Common\\EmailHelpers\\EmailSettings.cs",
+              "RelativeToolTip": "Watsons.Common\\EmailHelpers\\EmailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T06:39:52.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailHelper.cs",
+              "DocumentMoniker": "C:\\Projects\\Watsons.Common\\Watsons.Common\\EmailHelpers\\EmailHelper.cs",
+              "RelativeDocumentMoniker": "Watsons.Common\\EmailHelpers\\EmailHelper.cs",
+              "ToolTip": "C:\\Projects\\Watsons.Common\\Watsons.Common\\EmailHelpers\\EmailHelper.cs",
+              "RelativeToolTip": "Watsons.Common\\EmailHelpers\\EmailHelper.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswDwAAACVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T06:39:53.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Watsons.Common",
+              "DocumentMoniker": "C:\\Projects\\Watsons.Common\\Watsons.Common\\Watsons.Common.csproj",
+              "RelativeDocumentMoniker": "Watsons.Common\\Watsons.Common.csproj",
+              "ToolTip": "C:\\Projects\\Watsons.Common\\Watsons.Common\\Watsons.Common.csproj",
+              "RelativeToolTip": "Watsons.Common\\Watsons.Common.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T08:39:01.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.NET.Sdk.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "RelativeToolTip": "..\\..\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "ViewState": "AQIAABQBAAAAAAAAAAAcwBsBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-28T08:38:41.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Watsons.Common.csproj",
+              "DocumentMoniker": "C:\\Projects\\Watsons.Common\\Watsons.Common\\Watsons.Common.csproj",
+              "RelativeDocumentMoniker": "Watsons.Common\\Watsons.Common.csproj",
+              "ToolTip": "C:\\Projects\\Watsons.Common\\Watsons.Common\\Watsons.Common.csproj",
+              "RelativeToolTip": "Watsons.Common\\Watsons.Common.csproj",
+              "ViewState": "AQIAAAUAAADAmZmZmdkhwBQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-27T09:31:48.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TrafficLogMiddleware.cs",
+              "DocumentMoniker": "C:\\Projects\\Watsons.Common\\Watsons.Common\\TrafficLogHelpers\\TrafficLogMiddleware.cs",
+              "RelativeDocumentMoniker": "Watsons.Common\\TrafficLogHelpers\\TrafficLogMiddleware.cs",
+              "ToolTip": "C:\\Projects\\Watsons.Common\\Watsons.Common\\TrafficLogHelpers\\TrafficLogMiddleware.cs",
+              "RelativeToolTip": "Watsons.Common\\TrafficLogHelpers\\TrafficLogMiddleware.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T02:53:39.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrafficLog.cs",
+              "DocumentMoniker": "C:\\Projects\\Watsons.Common\\Watsons.Common\\TrafficLogHelpers\\TrafficLog.cs",
+              "RelativeDocumentMoniker": "Watsons.Common\\TrafficLogHelpers\\TrafficLog.cs",
+              "ToolTip": "C:\\Projects\\Watsons.Common\\Watsons.Common\\TrafficLogHelpers\\TrafficLog.cs",
+              "RelativeToolTip": "Watsons.Common\\TrafficLogHelpers\\TrafficLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T02:53:39.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrafficContext.cs",
+              "DocumentMoniker": "C:\\Projects\\Watsons.Common\\Watsons.Common\\TrafficLogHelpers\\TrafficContext.cs",
+              "RelativeDocumentMoniker": "Watsons.Common\\TrafficLogHelpers\\TrafficContext.cs",
+              "ToolTip": "C:\\Projects\\Watsons.Common\\Watsons.Common\\TrafficLogHelpers\\TrafficContext.cs",
+              "RelativeToolTip": "Watsons.Common\\TrafficLogHelpers\\TrafficContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T02:53:37.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HttpServiceResponse.cs",
+              "DocumentMoniker": "C:\\Projects\\Watsons.Common\\Watsons.Common\\HttpServices\\HttpServiceResponse.cs",
+              "RelativeDocumentMoniker": "Watsons.Common\\HttpServices\\HttpServiceResponse.cs",
+              "ToolTip": "C:\\Projects\\Watsons.Common\\Watsons.Common\\HttpServices\\HttpServiceResponse.cs",
+              "RelativeToolTip": "Watsons.Common\\HttpServices\\HttpServiceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T02:53:17.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SysCredential.cs",
+              "DocumentMoniker": "C:\\Projects\\Watsons.Common\\Watsons.Common\\SysCredential.cs",
+              "RelativeDocumentMoniker": "Watsons.Common\\SysCredential.cs",
+              "ToolTip": "C:\\Projects\\Watsons.Common\\Watsons.Common\\SysCredential.cs",
+              "RelativeToolTip": "Watsons.Common\\SysCredential.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:03:33.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EncryptionSql.cs",
+              "DocumentMoniker": "C:\\Projects\\Watsons.Common\\Watsons.Common\\EncryptionSql.cs",
+              "RelativeDocumentMoniker": "Watsons.Common\\EncryptionSql.cs",
+              "ToolTip": "C:\\Projects\\Watsons.Common\\Watsons.Common\\EncryptionSql.cs",
+              "RelativeToolTip": "Watsons.Common\\EncryptionSql.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:03:30.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImageHelper.cs",
+              "DocumentMoniker": "C:\\Projects\\Watsons.Common\\Watsons.Common\\ImageHelpers\\ImageHelper.cs",
+              "RelativeDocumentMoniker": "Watsons.Common\\ImageHelpers\\ImageHelper.cs",
+              "ToolTip": "C:\\Projects\\Watsons.Common\\Watsons.Common\\ImageHelpers\\ImageHelper.cs",
+              "RelativeToolTip": "Watsons.Common\\ImageHelpers\\ImageHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwCEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T15:06:29.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IImageHelper.cs",
+              "DocumentMoniker": "C:\\Projects\\Watsons.Common\\Watsons.Common\\ImageHelpers\\IImageHelper.cs",
+              "RelativeDocumentMoniker": "Watsons.Common\\ImageHelpers\\IImageHelper.cs",
+              "ToolTip": "C:\\Projects\\Watsons.Common\\Watsons.Common\\ImageHelpers\\IImageHelper.cs",
+              "RelativeToolTip": "Watsons.Common\\ImageHelpers\\IImageHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T15:06:26.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Watsons.Common\\Watsons.Common\\IRepository.cs",
+              "RelativeDocumentMoniker": "Watsons.Common\\IRepository.cs",
+              "ToolTip": "C:\\Projects\\Watsons.Common\\Watsons.Common\\IRepository.cs",
+              "RelativeToolTip": "Watsons.Common\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-12T01:32:16.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ServiceResult.cs",
+              "DocumentMoniker": "C:\\Projects\\Watsons.Common\\Watsons.Common\\ServiceResult.cs",
+              "RelativeDocumentMoniker": "Watsons.Common\\ServiceResult.cs",
+              "ToolTip": "C:\\Projects\\Watsons.Common\\Watsons.Common\\ServiceResult.cs",
+              "RelativeToolTip": "Watsons.Common\\ServiceResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T22:26:01.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EncryptionEngineCore.cs",
+              "DocumentMoniker": "C:\\Projects\\Watsons.Common\\Watsons.Common\\EncryptionEngineCore.cs",
+              "RelativeDocumentMoniker": "Watsons.Common\\EncryptionEngineCore.cs",
+              "ToolTip": "C:\\Projects\\Watsons.Common\\Watsons.Common\\EncryptionEngineCore.cs",
+              "RelativeToolTip": "Watsons.Common\\EncryptionEngineCore.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAxwFsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T02:39:52.939Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

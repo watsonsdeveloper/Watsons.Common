@@ -15,6 +15,17 @@ public partial class TrafficContext : DbContext
 
     public TrafficContext(DbContextOptions<TrafficContext> options) : base(options)
     {
+        
+    }
+
+    // onConfiguration
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        if (!optionsBuilder.IsConfigured)
+        {
+            // connect with connection string
+            //optionsBuilder.UseSqlServer("Data Source=10.98.32.248;Initial Catalog=TRV2_UAT;User ID=sa;Password=!QAZ2wsx#EDC;Trust Server Certificate=True"); // add connection string
+        }
     }
 
     internal virtual DbSet<TrafficLog> TrafficLogs { get; set; }
